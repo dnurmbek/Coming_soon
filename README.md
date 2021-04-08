@@ -14,7 +14,7 @@ The purpose of the project was: <br>
 ----
 ## 2. User personas
 
-This webpage will be visited mostly by teacher and  classmates who migth be interested in viewing how others have solved their project tasks.
+This webpage will be visited mostly by teacher for grade evaluation and also by classmates who might be interested in viewing how others have solved their project tasks.
 
 ---
 ## 3. User stories (features)
