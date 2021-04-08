@@ -66,7 +66,7 @@ _**This project does not have wireframes because of its simplicity.**_
 
 * Page should open in reasonable time - less than 1 hour, otherwise users just cannot wait
 * page should handle at least 20 simultainious viewers (the classmates)
-* page should be comftoble for the eye when looking at it all the long (because I never get tired from it) (in accordance with the WCAG requirements)
+* page should be comftoble for the eye when looking at it all day long (because I never get tired from it) (in accordance with the WCAG requirements)
 * page should be intuitive and pleasent to view (good UX and design)
 * should be easily scalable into larger project (Let's go crazy!)
 
