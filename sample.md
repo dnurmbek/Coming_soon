@@ -51,8 +51,7 @@ ____
 <p>This is a paragraph</p>
 
 <!-- Images -->
-![Lion]
-(https://i.pinimg.com/564x/62/31/96/62319665361523196c5d56cc28ff861f.jpg)
+![Markdown Logo](https://i.pinimg.com/originals/74/05/83/740583cb7eb533c5d63d81d7c7968110.jpg)
 
 <!-- Github Markdown -->
 
@@ -83,6 +82,6 @@ npm start
 <!-- Task List -->
 
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 
